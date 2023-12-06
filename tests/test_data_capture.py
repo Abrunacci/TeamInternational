@@ -1,4 +1,4 @@
-from ..data_capture import DataCapture
+from data_capture import DataCapture
 
 
 def test_data_capture_with_example():

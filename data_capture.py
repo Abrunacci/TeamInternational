@@ -2,8 +2,8 @@
 This module contains the DataCapture class representation.
 """
 
-from .decorators import input_is_valid
-from .stats import Stats
+from decorators import input_is_valid
+from stats import Stats
 
 
 class DataCapture:

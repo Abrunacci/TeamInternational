@@ -1,7 +1,7 @@
 """stats.py
 This module contains the Stats class representation.
 """
-from .decorators import input_is_valid, range_is_valid
+from decorators import input_is_valid, range_is_valid
 
 
 class Stats:
